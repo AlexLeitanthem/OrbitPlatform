@@ -95,7 +95,7 @@
 If you discover a security vulnerability, please:
 
 1. **DO NOT** create a public GitHub issue
-2. Email security concerns to: [your-email@domain.com]
+2. Email security concerns to: [alexleitanthem0@icloud.com]
 3. Include detailed information about the vulnerability
 4. Allow reasonable time for response before disclosure
 
